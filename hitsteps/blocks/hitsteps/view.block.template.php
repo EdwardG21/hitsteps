@@ -35,7 +35,7 @@ if (!defined('SCHLIX_VERSION'))
 
 <?php else: ?>
     <x-ui:alert type="danger">
-        <?= ___('Clicky tracking number has not been provided') ?>
+        <?= ___('Hitsteps tracking number has not been provided') ?>
     </x-ui:alert>
 
 <?php endif ?>
