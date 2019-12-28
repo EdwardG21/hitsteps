@@ -1,2 +1,2 @@
-# clickystats
-Clicky stats for SCHLIX CMS
+# hipsteps
+Hipsteps for SCHLIX CMS
